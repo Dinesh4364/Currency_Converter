@@ -13,6 +13,7 @@ A simple and interactive currency converter web application built with **Streaml
 ## Demo
 
 ![Demo Screenshot](Demo.png)  
+🚀 [Try Live App](https://currencyconverter-7rniaurf2d83scrumcbozb.streamlit.app)
 
 ---
 
